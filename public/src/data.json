@@ -1,0 +1,107 @@
+[
+  {
+    "name": "Monday",
+    "weekday": true,
+    "tasks": [
+      {
+        "task": "Sacar al perroto",
+        "done": false
+      },
+      {
+        "task": "Sacar al perro",
+        "done": true
+      }
+    ]
+  },
+
+  {
+    "name": "Tuesday",
+    "weekday": true,
+    "tasks": [
+      {
+        "task": "Sacar al gato",
+        "done": false
+      },
+      {
+        "task": "Sacar al perro",
+        "done": true
+      }
+    ]
+  },
+
+  {
+    "name": "Wednesday",
+    "weekday": true,
+    "tasks": [
+      {
+        "task": "Sacar al raton",
+        "done": false
+      },
+      {
+        "task": "Sacar al perro",
+        "done": true
+      }
+    ]
+  },
+
+  {
+    "name": "Thrusday",
+    "weekday": true,
+    "tasks": [
+      {
+        "task": "Sacar al mono",
+        "done": false
+      },
+      {
+        "task": "Sacar al perro",
+        "done": true
+      }
+    ]
+  },
+
+  {
+    "name": "Friday",
+    "weekday": true,
+    "tasks": [
+      {
+        "task": "Sacar al baifo",
+        "done": false
+      },
+      {
+        "task": "Sacar al perro",
+        "done": true
+      }
+    ]
+  },
+
+  {
+    "name": "Saturday",
+    "weekday": false,
+    "tasks": [
+      {
+        "task": "Sacar al charmander",
+        "done": false
+      },
+      {
+        "task": "Sacar al perro",
+        "done": true
+      }
+    ]
+  },
+
+  {
+    "name": "Sunday",
+    "weekday": false,
+    "tasks": [
+      {
+        "task": "Sacar al greymon",
+        "done": false
+      },
+      {
+        "task": "Sacar al perro",
+        "done": true
+      }
+    ]
+  }
+]
+

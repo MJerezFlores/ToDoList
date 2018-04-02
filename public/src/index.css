@@ -1,0 +1,67 @@
+body{
+    font-family: 'Indie Flower';
+    width: 100vw;
+    font-size: 1vw;
+}
+
+.todoList{
+    float: left;
+    clear: both;
+    margin: 2%;
+    width: 90%;
+    align-content: center;
+    padding-left: 3vw;
+    padding-top: 2vw;
+    border-style: inset;
+    border-color: #008080;
+    background-color: #F5FFFA;
+}
+
+.title{
+    text-align: center;
+    font-size:2vw;
+}
+
+.title h1{
+    color:#b2d8d8;
+    text-shadow: 0 0 2px #004c4c;
+}
+
+.selectionBox{
+    text-align: center;
+    margin-bottom: 4vh;
+}
+
+.dayBox{
+    border-style: inset;
+    border-color: #39cccc;
+    width: 40vw;
+    float: left;
+    margin-right: 2vw;
+    margin-bottom: 2vw;
+    padding: 1vw;
+
+}
+
+.dayBox h3{
+    font-size: 2vw;
+    color: #004c4c;
+    text-align: center;
+    text-decoration: underline;
+    margin-bottom: 2vh;
+}
+
+@media screen and (max-device-width : 420px) {
+    .dayBox {
+        width: 85vw;
+    }
+}
+
+.task{
+    overflow-wrap: break-word;
+    /*border:solid purple;*/
+}
+
+.newTask{
+    width: 30vw;
+}
